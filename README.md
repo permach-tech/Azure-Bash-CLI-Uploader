@@ -21,3 +21,6 @@ Execute the script:
 ```bash
    sh azure-uploader.sh -g <your-resource-group> -a <your-storage-account> -c <your-container-name> -f <file-path>
    ```
+## Resources
+https://learn.microsoft.com/en-us/cli/azure/azure-cli-learn-bash
+https://learn.microsoft.com/en-us/cli/azure/get-started-tutorial-1-prepare-environment?tabs=bash#find-and-change-your-active-subscription
