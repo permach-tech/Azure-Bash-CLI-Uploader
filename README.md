@@ -13,11 +13,11 @@ This Bash script allows one to seamlessly upload files to an Azure Storage Accou
    git clone https://github.com/permach-tech/Azure-Bash-CLI-Uploader.git
    ```
 ## Usage
-Ensure the script has execute permissions
+Navigate to the directory where the script is and ensure the script has execute permissions:
 ```bash
-   chmod +x installerscript.sh
+   chmod +x azure-uploader.sh
    ```
-Execute the script 
+Execute the script:
 ```bash
    sh azure-uploader.sh
    ```
