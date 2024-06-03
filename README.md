@@ -19,5 +19,5 @@ Navigate to the directory where the script is and ensure the script has execute 
    ```
 Execute the script:
 ```bash
-   sh azure-uploader.sh
+   sh azure-uploader.sh -g <your-resource-group> -a <your-storage-account> -c <your-container-name> -f <file-path>
    ```
